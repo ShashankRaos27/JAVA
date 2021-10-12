@@ -1,0 +1,4 @@
+enum MobileBrands
+{
+	APPLE,SAMSUNG,VIVO,MI,OPPO,REALME,JIO;
+}
