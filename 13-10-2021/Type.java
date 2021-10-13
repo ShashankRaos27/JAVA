@@ -1,0 +1,4 @@
+enum Type
+{
+	WITHGEAR,WITHOUTGEAR;
+}
