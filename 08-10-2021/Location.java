@@ -23,6 +23,7 @@ Location(String dest)
 {
   System.out.println("invoked location const string");
   destination=dest;
+  
 }
 Location(float dest)
 {
