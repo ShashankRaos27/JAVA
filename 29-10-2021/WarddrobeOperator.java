@@ -101,7 +101,7 @@ public class WarddrobeOperator {
 				  Character  h=temp.charAt(0);
 				  if(c.equals(h))
 				  {
-						System.out.println("first character of "+chr+" matched with "+this.wardDrobe[i]);
+						System.out.println("  first character of  "+chr+ "  matched with     "+this.wardDrobe[i]);
 						return true;
 				  }
 				  
@@ -124,7 +124,7 @@ public class WarddrobeOperator {
 				  Character  h=temp.charAt(temp.length()-1);
 				  if(c.equals(h))
 				  {
-						System.out.println("Last character of "+chr+" matched with "+this.wardDrobe[i]);
+						System.out.println("    Last character of   "+chr+"   matched with    " +this.wardDrobe[i]);
 						return true;
 				  }
 			  }
